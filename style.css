@@ -1,5 +1,14 @@
-body{
-    background-color: yellow;
-}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+.card{
+    width:600px;
+    height:450px;
+    background-color: #ffffff;
+    margin:0 auto;
+}
+
+body{
+    background-color: hsl(28, 32%, 92%);
+}
