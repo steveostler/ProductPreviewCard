@@ -1,6 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color: hsl(28, 32%, 92%);
+    font-family: 'Montserrat', sans-serif;
+    font-style: 14px;
+}
+
+
 
 .card{
     width:600px;
@@ -8,14 +18,9 @@
     background-color: #ffffff;
     margin:0 auto;
     border-radius: 10px;
-   
 }
 
-body{
-    background-color: hsl(28, 32%, 92%);
-    font-family: 'Montserrat', sans-serif;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -91,4 +96,12 @@ button {
 	border-radius: 10px;
 	margin-top: 26px;
 }
+
+.btn img{
+    width:16px;
+    padding-left:40px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
 
